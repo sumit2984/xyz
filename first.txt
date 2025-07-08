@@ -1,2 +1,6 @@
 kafka zokeeper 
 hadoop Architecture
+cloud computing 
+java 
+spring boot 
+Hibernet
